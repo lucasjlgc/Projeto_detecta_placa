@@ -1,6 +1,9 @@
-# license_plate_detection  
+# Detecção de placas.  
 
-## This project aims to detect and store license plates. Using computer vision.  
-### Technologies Used:  
+Este projeto utiliza algoritmos de visão computacional para a detecção de placas de veiculos em condominios. 
+
+### Linguagem de programação utilizada:  
 * Python  
+
+### Tecnologias utilizadas:
 * OpenCV
