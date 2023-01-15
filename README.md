@@ -7,3 +7,12 @@ Este projeto utiliza algoritmos de visão computacional para a detecção de pla
 
 ### Tecnologias utilizadas:
 * OpenCV
+
+### Dados Utilizados no Software
+
+Imagem utilizada de entrada.
+
+![Imagem_de_entrada](https://github.com/lucasjlgc/Projeto_detecta_placa/blob/master/car.jpg)
+
+### Resultado
+![Imagem resultante](https://github.com/lucasjlgc/Projeto_detecta_placa/blob/master/result.png)
